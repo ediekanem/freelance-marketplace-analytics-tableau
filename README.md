@@ -81,6 +81,7 @@ Interactive Tableau dashboard analyzing earnings patterns, category-level perfor
 - `freelancer-performance-dashboard-preview.png`
 - `freelancer-earnings-forecast-dashboard-preview.png`
 - `FreelanceGig_Project_Overview.docx`
+- `FreelanceGig_Presentation_Slides.pptx`
 
 ## What This Project Demonstrates
 This project demonstrates my ability to prepare and combine datasets in Tableau, build calculated metrics and KPI-driven dashboards, analyze performance and earnings patterns, apply forecasting in a business analytics context, design interactive dashboards for decision-making, and communicate findings clearly through data visualization.
